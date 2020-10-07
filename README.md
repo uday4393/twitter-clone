@@ -1,3 +1,18 @@
+## COVID 19 Tracker - Made with React
+
+This project uses ract library, react hooks. It also uses data pulled from a user account. All Tweets are served from Firebase Firestore.
+
+### Click here to view demo [View Demo](https://twitter-clone-e0468.web.app/)
+
+### DEMO Capture
+<img src="screenshots/twitter.gif">
+
+### Checkout some screenshots below
+<img src="screenshots/twitter1.png">
+<img src="screenshots/twitter2.png">
+
+### Click here to view demo [View Demo](https://twitter-clone-e0468.web.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
